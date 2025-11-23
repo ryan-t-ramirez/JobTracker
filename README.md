@@ -8,6 +8,8 @@
 2. **Processing:** The script fetches the HTML, parses the DOM using Regex, and sanitizes the data.
 3. **Output:** The sheet is automatically populated with structured data.
 
+<img width="854" height="210" alt="Screenshot 2025-11-22 at 8 46 33 PM" src="https://github.com/user-attachments/assets/753dde54-d33b-4ce4-937e-d2b7eb2bc118" />
+
 ### 🧩 Key Capabilities
 * **Regex Pattern Matching:** Intelligently identifies salary ranges (e.g., "$120k - $150k") and remote status.
 * **DOM Parsing:** Extracts hidden metadata from LinkedIn's HTML structure.
